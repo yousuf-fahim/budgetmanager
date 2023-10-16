@@ -1,7 +1,6 @@
 #include <iostream>
-#include<string>
-#include <vector>
 #include <string>
+#include <vector>
 #include <unordered_map>
 #include <fstream>
 #include<stdio.h>
