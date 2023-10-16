@@ -1,6 +1,5 @@
 #include <iostream>
 #include<string>
-#include<conio.h>
 #include <vector>
 #include <string>
 #include <unordered_map>
@@ -183,7 +182,7 @@ public:
                     cout << "\n\n\t\t\t\tExiting. Goodbye!";
                     cin.ignore();
                     cin.get();
-                    getch();
+                    system("pause");
 
                     return;
 
@@ -288,7 +287,7 @@ cout<<"\n\n\t\t\t\t\tDeveloped By:";
 cout<<"\t Binary_Builders";
 cout<<"\n\n\n\n\n\n\n\t\t\t\t\tPress any key to continue....!!";
 
-getch();
+system("pause");
 
 }
 
