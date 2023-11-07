@@ -302,7 +302,7 @@ void displayTitle()
     cout << "\n\t\t\t\t\t************************************";
     cout << "\n\n\t\t\t\t\tDeveloped By:";
     cout << "\t Binary_Builders";
-    cout << "\n\n\n\n\n\n\n\t\t\t\t\tPress any key to continue....!!";
+    cout << "\n\n\n\n\n\n\n\t\t\t\t\t ";
 
     system("pause");
 }
